@@ -4,6 +4,11 @@ This project demonstrates how I deployed a secure, scalable WordPress environmen
 
 ---
 
+## Architecture Diagram
+
+![Architecture Diagram](screenshots/architecture-diagram.png)
+
+
 ## Architecture Summary
 
 - **VPC:** Custom VPC with public and private subnets across two Availability Zones  
