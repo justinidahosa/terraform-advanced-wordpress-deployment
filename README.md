@@ -1,4 +1,4 @@
-# Multi-Tier WordPress Deployment on AWS
+# Terraform Advanced WordPress Deployment
 
 This project demonstrates how I deployed a secure, scalable WordPress environment on AWS using a multi-tier architecture. The setup includes WordPress running on EC2, a MySQL database hosted on Amazon RDS, and an Application Load Balancer to handle web traffic.
 
